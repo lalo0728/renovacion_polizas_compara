@@ -1,0 +1,66 @@
+id_propuesta,inicio_vigencia,fin_vigencia,valor_prima_uf,metodo_pago,vehiculo,observacion
+1227916,2025-07-02,2026-07-02,17.28,ONECLICK,"{""marca"": ""DONGFENG/DFM"", ""modelo"": ""AEOLUS GS CROSS""}",renueva
+1227901,2025-07-02,2026-07-02,20.27,ONECLICK,"{""marca"": ""DONGFENG/DFM"", ""modelo"": ""AEOLUS GS CROSS""}",renueva
+1227937,2025-07-02,2026-07-02,10.31,TX DIRECTA KLAP,"{""marca"": ""TOYOTA"", ""modelo"": ""RAV 4""}",renueva
+814540,2025-07-02,2026-07-02,12.32,PAT,"{""marca"": ""MAZDA"", ""modelo"": ""CX 9""}",renueva
+1228157,,,,,,no renueva
+574175,2025-07-02,2026-07-02,20.23,PAT,"{""marca"": ""CHEVROLET"", ""modelo"": ""CAPTIVA""}",renueva
+574332,2025-07-02,2026-07-02,25.69,PAC,"{""marca"": ""FORD"", ""modelo"": ""EXPLORER LIMIT""}",renueva
+574149,2025-07-02,2026-07-02,8.08,PAC,"{""marca"": ""HYUNDAI"", ""modelo"": ""TUCSON""}",renueva
+1226597,2025-07-02,2026-07-02,16.85,ONECLICK,"{""marca"": ""NISSAN"", ""modelo"": ""VERSA""}",renueva
+1227226,,,,,,no renueva
+1226966,,,,,,no renueva
+1222851,2025-07-01,2026-07-01,19.73,TX DIRECTA KLAP,"{""marca"": ""KIA"", ""modelo"": ""SPORTAGE""}",renueva
+953949,2025-07-01,2026-07-01,27.79,PAT,"{""marca"": ""CHERY"", ""modelo"": ""TIGGO2""}",renueva
+1227927,2025-07-01,2026-07-01,11.96,ONECLICK,"{""marca"": ""SUZUKI"", ""modelo"": ""BALENO""}",renueva
+1227871,2025-07-01,2026-07-01,9.64,ONECLICK,"{""marca"": ""CITROEN"", ""modelo"": ""C-Elysée""}",renueva
+1227821,2025-07-01,2026-07-01,10.33,ONECLICK,"{""marca"": ""SUZUKI"", ""modelo"": ""DZIRE""}",renueva
+1226925,2025-07-01,2026-07-01,14.21,TX DIRECTA KLAP,"{""marca"": ""SUZUKI"", ""modelo"": ""JIMNY""}",renueva
+1226415,2025-07-01,2026-07-01,17.11,ONECLICK,"{""marca"": ""MAZDA"", ""modelo"": ""2 SEDAN""}",renueva
+814036,2025-07-01,2026-07-01,11.44,TX DIRECTA KLAP,"{""marca"": ""CHANGAN"", ""modelo"": ""CX 70""}",renueva
+1076827,2025-07-01,2026-07-01,24.14,ONECLICK,"{""marca"": ""MITSUBISHI"", ""modelo"": ""LANCER""}",renueva
+1227220,2025-07-01,2026-07-01,16.78,ONECLICK,"{""marca"": ""PEUGEOT"", ""modelo"": ""3008""}",renueva
+1228279,2025-07-01,2026-07-01,9.29,ONECLICK,"{""marca"": ""SUZUKI"", ""modelo"": ""ERTIGA""}",renueva
+448673,2025-07-01,2026-07-01,19.14,PAT,"{""marca"": ""CHEVROLET"", ""modelo"": ""SPARK SEDAN""}",renueva
+367006,2025-07-01,2026-07-01,15.82,TX DIRECTA TRANSBANK,"{""marca"": ""MAHINDRA"", ""modelo"": ""PICK UP""}",renueva
+449569,2025-07-01,2026-07-01,7.74,TX DIRECTA TRANSBANK,"{""marca"": ""SUBARU"", ""modelo"": ""FORESTER""}",renueva
+573932,2025-07-01,2026-07-01,28.02,PAT,"{""marca"": ""FORD"", ""modelo"": ""EXPLORER""}",renueva
+574102,2025-07-01,2026-07-01,7.96,PAC,"{""marca"": ""OPEL"", ""modelo"": ""GRANDLAND X""}",renueva
+1228250,2025-07-01,2026-07-01,10.02,TX DIRECTA TRANSBANK,"{""marca"": ""HAVAL"", ""modelo"": ""H2""}",renueva
+1227994,2025-07-01,2026-07-01,8.28,ONECLICK,"{""marca"": ""GREAT WALL (GWM)"", ""modelo"": ""GREAT WALL 3""}",renueva
+1077763,2025-07-01,2026-07-01,36.85,ONECLICK,"{""marca"": ""VOLVO"", ""modelo"": ""XC60""}",renueva
+953954,2025-07-01,2026-07-01,15.07,PAT,"{""marca"": ""KIA"", ""modelo"": ""SOLUTO""}",renueva
+954002,2025-07-01,2026-07-01,17.68,ONECLICK,"{""marca"": ""VOLKSWAGEN"", ""modelo"": ""T CROSS CONFORTLINE""}",renueva
+1227573,2025-07-01,2026-07-01,11.89,TX DIRECTA TRANSBANK,"{""marca"": ""SUBARU"", ""modelo"": ""FORESTER""}",renueva
+953234,2025-07-01,2026-07-01,21.34,ONECLICK,"{""marca"": ""HONDA"", ""modelo"": ""PILOT""}",renueva
+1223978,2025-07-01,2026-07-01,15.15,ONECLICK,"{""marca"": ""SUBARU"", ""modelo"": ""NEW FORESTER""}",renueva
+1227263,2025-07-01,2026-07-01,21.3,ONECLICK,"{""marca"": ""VOLVO"", ""modelo"": ""V40""}",renueva
+1228555,2025-07-01,2026-07-01,18.08,ONECLICK,"{""marca"": ""SSANGYONG"", ""modelo"": ""NEW REXTON""}",renueva
+1227527,2025-07-01,2026-07-01,11.13,ONECLICK,"{""marca"": ""CITROEN"", ""modelo"": ""C3""}",renueva
+1228480,2025-07-01,2026-07-01,16.48,ONECLICK,"{""marca"": ""CHEVROLET"", ""modelo"": ""TRACKER""}",renueva
+1225792,2025-07-03,2026-07-03,9.04,ONECLICK,"{""marca"": ""CHEVROLET"", ""modelo"": ""SAIL""}",renueva
+1226913,2025-07-03,2026-07-03,8.65,ONECLICK,"{""marca"": ""CHERY"", ""modelo"": ""TIGGO2""}",renueva
+1229798,2025-07-03,2026-07-03,13.8,ONECLICK,"{""marca"": ""HYUNDAI"", ""modelo"": ""ACCENT HATCHBACK""}",renueva
+1227603,2025-07-03,2026-07-03,10.77,ONECLICK,"{""marca"": ""VOLKSWAGEN"", ""modelo"": ""POLO""}",renueva
+1227437,2025-07-03,2026-07-03,12.84,TX DIRECTA KLAP,"{""marca"": ""SUZUKI"", ""modelo"": ""CIAZ""}",renueva
+1228580,2025-07-03,2026-07-03,10.81,ONECLICK,"{""marca"": ""SUZUKI"", ""modelo"": ""SWIFT""}",renueva
+814087,2025-07-03,2026-07-03,13.25,PAT,"{""marca"": ""KIA"", ""modelo"": ""SORENTO""}",renueva
+1077410,2025-07-03,2026-07-03,13.59,ONECLICK,"{""marca"": ""SUZUKI"", ""modelo"": ""SWIFT""}",renueva
+1225866,2025-07-03,2026-07-03,10.75,ONECLICK,"{""marca"": ""SUZUKI"", ""modelo"": ""VITARA""}",renueva
+1226747,2025-07-03,2026-07-03,7.45,TX DIRECTA KLAP,"{""marca"": ""HYUNDAI"", ""modelo"": ""NEW ACCENT""}",renueva
+1077457,2025-07-03,2026-07-03,13.37,ONECLICK,"{""marca"": ""SUZUKI"", ""modelo"": ""CELERIO""}",renueva
+246392,2025-07-03,2026-07-03,26.24,PAC,"{""marca"": ""VOLVO"", ""modelo"": ""S60""}",renueva
+574105,2025-07-03,2026-07-03,11.89,PAT,"{""marca"": ""SUZUKI"", ""modelo"": ""BALENO""}",renueva
+574519,2025-07-03,2026-07-03,30.35,PAT,"{""marca"": ""VOLVO"", ""modelo"": ""XC40""}",renueva
+1229726,2025-07-03,2026-07-03,12.91,ONECLICK,"{""marca"": ""SUBARU"", ""modelo"": ""NEW FORESTER""}",renueva
+1077086,2025-07-03,2026-07-03,25.23,ONECLICK,"{""marca"": ""KIA"", ""modelo"": ""CERATO""}",renueva
+1070192,2025-07-03,2026-07-03,17.16,TX DIRECTA TRANSBANK,"{""marca"": ""SEAT"", ""modelo"": ""ARONA""}",renueva
+1077118,2025-07-03,2026-07-03,17.23,TX DIRECTA TRANSBANK,"{""marca"": ""HONDA"", ""modelo"": ""HR-V""}",renueva
+1077913,2025-07-03,2026-07-03,22.1,TX DIRECTA TRANSBANK,"{""marca"": ""MITSUBISHI"", ""modelo"": ""OUTLANDER""}",renueva
+1078405,2025-07-03,2026-07-03,18.9,ONECLICK,"{""marca"": ""VOLKSWAGEN"", ""modelo"": ""TIGUAN""}",renueva
+1229084,2025-07-03,2026-07-03,10.97,TX DIRECTA TRANSBANK,"{""marca"": ""JAC"", ""modelo"": ""JS2""}",renueva
+1071748,2025-07-03,2026-07-03,19.09,ONECLICK,"{""marca"": ""SUBARU"", ""modelo"": ""FORESTER""}",renueva
+1229327,2025-07-03,2026-07-03,13.02,ONECLICK,"{""marca"": ""SSANGYONG"", ""modelo"": ""NEW REXTON""}",renueva
+1229275,2025-07-03,2026-07-03,17.73,ONECLICK,"{""marca"": ""VOLKSWAGEN"", ""modelo"": ""TIGUAN""}",renueva
+1226852,2025-07-03,2026-07-03,13.23,ONECLICK,"{""marca"": ""SUBARU"", ""modelo"": ""NEW FORESTER""}",renueva
+1227871,2025-07-01,2026-07-01,9.64,ONECLICK,"{""marca"": ""CITROEN"", ""modelo"": ""C-Elysée""}",renueva
